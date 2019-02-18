@@ -1,0 +1,32 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: lightskyblue ;
+}
+
+.center {
+    text-align: center;
+}
+
+#rps {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font: 35px;
+}
+
+#scissors {
+    padding-top: 10px;
+}
+
+#rock, #paper {
+    padding-bottom: 10px;
+}
